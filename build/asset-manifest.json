@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.e4503f90.css",
-    "main.js": "/static/js/main.7ebb6aff.js",
+    "main.js": "/static/js/main.1077ab1d.js",
     "static/media/paradisebeach.png": "/static/media/paradisebeach.1b122b6e575e5bdfc840.png",
     "static/media/youtube.png": "/static/media/youtube.f50c083ad77689c44edb.png",
     "static/media/caraSITE.png": "/static/media/caraSITE.12da02828b649cccd1db.png",
     "static/media/deliveryfood.png": "/static/media/deliveryfood.5ff63cc7706eb85aa59c.png",
     "static/media/realestate.png": "/static/media/realestate.0cfc0a3e3a31340e154f.png",
+    "static/media/dashboard.png": "/static/media/dashboard.be2880a6c7dd730d3d6e.png",
     "static/media/projectnew.webp": "/static/media/projectnew.3f3f35a5d22102dd07d9.webp",
     "static/media/dev.webp": "/static/media/dev.7f3f33b4b6028df89602.webp",
     "static/media/react.webp": "/static/media/react.320e8106cd45ff1880c0.webp",
@@ -22,10 +23,10 @@
     "static/media/js.png": "/static/media/js.266bd9fb2663dcc057b4.png",
     "index.html": "/index.html",
     "main.e4503f90.css.map": "/static/css/main.e4503f90.css.map",
-    "main.7ebb6aff.js.map": "/static/js/main.7ebb6aff.js.map"
+    "main.1077ab1d.js.map": "/static/js/main.1077ab1d.js.map"
   },
   "entrypoints": [
     "static/css/main.e4503f90.css",
-    "static/js/main.7ebb6aff.js"
+    "static/js/main.1077ab1d.js"
   ]
 }
