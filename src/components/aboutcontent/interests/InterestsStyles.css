@@ -1,0 +1,66 @@
+
+.interests-container {
+    max-width: 1140px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 40px;
+    padding-bottom: 5rem;
+}
+
+.interests-card {
+    background: #1a1919;
+     padding: 1.2rem 1rem; 
+}
+
+.interests-card:hover {
+    border: 1px solid white;
+}
+
+.interests-card img {
+    max-width: 100%;
+    padding: 1rem 1.5rem;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    height: 10rem;
+    background-color: white;
+    border-radius: 40x;
+
+}
+
+.interests-title {
+    color: #fff;
+    padding: 3rem 0;
+    text-align: center;
+}
+
+.interests h3 {
+    text-align: center;
+    color: white;
+    padding: 1rem 0;
+}
+
+.pro-details p {
+    padding-bottom: 1rem;
+    font-size: 1.1rem;
+    text-align: justify;
+}
+
+
+/* Responsive */
+
+@media screen and (max-width: 740px) {
+    .interests-container {
+        max-width: 50%;
+        margin: auto;
+        grid-template-columns: 1fr;
+    }
+
+    .interests-card img {
+        padding: 2rem 0;
+    }
+
+
+}
+

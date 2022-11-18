@@ -1,0 +1,53 @@
+/* .project-heading {
+    text-align: center;
+    padding: 4rem 0 2rem 0;
+} */
+
+.skills-container {
+    max-width: 1140px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 40px;
+    padding-bottom: 5rem;
+}
+
+.skills-card {
+    text-align: center;
+    background: #1a1919;
+    padding: 1.2rem 1rem;
+}
+
+.skills-card:hover {
+    border: 1px solid white;
+
+}
+
+.skills-card img {
+    width: 40%;
+}
+
+.skills-title {
+    text-align: center;
+    color: #fff;
+    padding: 3rem 0;
+}
+
+.skills-title-2 {
+    color: white;
+    padding: 1rem 0;
+}
+
+
+/* Responsive */
+
+@media screen and (max-width: 740px) {
+    .skills-container {
+        max-width: 50%;
+        margin: auto;
+        grid-template-columns: 1fr;
+    }
+
+    
+}
+
