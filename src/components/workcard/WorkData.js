@@ -4,6 +4,7 @@ import pro3 from '../../assets/youtube.png'
 import pro4 from '../../assets/paradisebeach.png'
 import pro5 from '../../assets/expense.png'
 import pro6 from '../../assets/caraSITE.png'
+import pro7 from '../../assets/dashboard.png'
 
 const ProjectCardData = [
   {
@@ -47,6 +48,13 @@ const ProjectCardData = [
     text: 'Building & Deploy Fictional E-commerce Website with HTML, CSS & JavaScript',
     view: '',
     linkURL: 'https://github.com/TomChaseParis/CARA-SITE',
+  },
+  {
+    imgSrc: pro7,
+    title: 'React Admin Dashboard',
+    text: 'React Admin Dashboard from scratch. I will be using React, Material UI, Nivo Charts, Formik, Yup, FullCalendar, and Data Grid to build this entire application. This application consists of Light and Dark Mode, 4 different Charts, 3 different Data Table Pages, FAQ Page, Form Page, and Calendar Integration.',
+    view: '',
+    linkURL: 'https://github.com/TomChaseParis/React--Admin-Dashboard',
   },
 ]
 
